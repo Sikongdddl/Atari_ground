@@ -116,7 +116,6 @@ config = {
     "epsilon_decay": 1000,
     "max_episodes": 1000,
     "device": "cuda" if torch.cuda.is_available() else "cpu",
-    "log_dir": "./runs/pong_experiment"  # TensorBoard日志路径
 }
 
 def train():
