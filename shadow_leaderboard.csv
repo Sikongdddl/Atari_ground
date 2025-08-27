@@ -1,0 +1,4 @@
+model,points_won,points_lost,ties,net_points,avg_steps_per_point,total_points
+baseline,100,0,0,100,89.0,100
+baseline,50,0,0,50,89.0,50
+ftbad_ep1,50,0,0,50,270.0,50
